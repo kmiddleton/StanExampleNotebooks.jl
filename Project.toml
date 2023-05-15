@@ -1,8 +1,12 @@
 name = "StanExampleNotebooks"
 
 [deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
 DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
+GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+RegressionAndOtherStories = "21324389-b050-441a-ba7b-9a837781bda0"
 Stan = "682df890-35be-576f-97d0-3d8c8b33a550"
+StanSample = "c1514b29-d3a0-5178-b312-660c88baa699"
 
 [compat]
 DrWatson = "2.12.1"
